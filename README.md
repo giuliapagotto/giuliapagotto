@@ -1,6 +1,7 @@
 ### Hi, I'm Giulia 👋
 
-Smart Manufacturing Intern
+Welcome to my Github.
+I am currently in love with Flutter and Mobile Development but I like to study different things 🤓
 
 <!--
 **giuliapagotto/giuliapagotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
